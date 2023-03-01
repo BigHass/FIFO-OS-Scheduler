@@ -16,6 +16,10 @@ The FIFO scheduling algorithm is a simple and straightforward approach to CPU sc
 
 The implementation includes a main function that simulates the arrival of processes and their execution. The user can modify the implementation to suit their needs, such as changing the time quantum or the arrival rate of processes.
 
+      <p align="center">
+            <img src="/assets/images/fifo_single_queue.gif" alt="fifo_single_queue">
+      </p>
+
 ## Installation
 
 To use the implementation, you will need a C/C++ compiler installed on your machine, such as GCC or Clang. You can then compile the code using the following command:
